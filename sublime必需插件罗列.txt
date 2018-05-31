@@ -1,0 +1,28 @@
+ChineseLocalizations   中文版汉化
+SideBarEnhancements
+Boxy Theme             主题插件
+Emmet                  zencoding插件  ctrl+e
+Babel                  react、ES6转码
+Vue Syntax Highlight   vue高亮插件
+HTML-CSS-JS Prettify   格式化插件 ctrl+shift+h
+DocBlockr              注释  /*回车   /**回车
+Alignment              对齐
+AutoFileName           快速输入
+jQuery                 支持jQuery规范的插件包
+HTML5                  新建html文档>输入html5>敲击Tab键>自动补全html5规范文档
+SublimeLint            可以高亮linter认为有错误的代码行，也支持高亮一些特别的注释
+JSFormat               JS代码格式化插件 ctrl+alt+f
+BracketHighlighter     点击某个标签或括号之类，会高亮显示出另一个标签或括号所在的位置
+JavaScript Next        完美支持ECMAScript 6
+Color Highlighter      CSS颜色高亮
+ColorPicker           内置的颜色选择器 ctrl+shift+c
+CSScomb                排序所有的属性还是有助于代码的整洁。在Sublime Text中，选中CSS属性后按F5就可以按字母顺序排序，或者右键Run CSScomb
+CSS Format             CSS格式化    右键-》CSS format-》Expanded    右键-》CSS format-》Compact
+Auto Close HTML Tags   写HTML代码时，输入“>”就会自动产生相应的闭合标签</>
+HTMLBeautify           格式化HTML代码   选中代码，然后按下快捷键ctrl+alt+shift+f或者Edit->Beautify HTML
+SideBarEnhancements    设置默认浏览器
+AdvanceNewFile         在创建新文件时安装的插件   //  快捷键 Ctrl+Alt +N：新建文件   快捷键 Ctrl+Alt+Shift +N：新建目录
+
+
+
+
